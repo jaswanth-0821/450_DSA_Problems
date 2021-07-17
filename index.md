@@ -10,7 +10,7 @@
 
 * 📝 [Posts](posts.md)
 * 🤵 [About](about.md)
-* 🤙 [Contact](contact.md)
+* 🤙 [Contact](Contact.md)
 
 <br>
 <br>
