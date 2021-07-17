@@ -9,4 +9,4 @@
 * [Array](Array/array_posts.md) 
 * [Matrix](Matrix/martix_posts.md) 
 * [String](String/string_posts.md) 
-* [Searching and sorting] (Searching and sorting/searching and sorting_posts.md) 
+* [Searching and sorting](Searching_and_sorting/searching_and_sorting_posts.md) 
