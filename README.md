@@ -3,4 +3,8 @@
 - solutions of 450 dsa problems 
 
 
- ### coming soon...
+I inspired from one of my senior and created  multipage look as best as i can .
+
+If you want to check it just open [index.md](index.md) , then you will understand ....
+
+
