@@ -44,3 +44,5 @@ int main() {
 	
 	return 0;
 } 
+// i tried my best to not to make any mistake .....if you find any wrong in my code .....please feel free to text me.
+// if you got any code which takes less complex than my code please feel free to share with me .....may be it will help someone who in need.
