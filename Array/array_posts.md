@@ -15,3 +15,7 @@
 * [union of two array](union_of_two_array.cpp)
 * [Rotation of array by one](rotation_of_array_one.cpp)
 * [Contiguous sub-array with maximum sum (Kadane's Algorithm)](max_sum_of_subarray.cpp)
+* minimize the heights
+* finding duplicates in array
+* merge two array without extraspace
+* [Kadane's Algorithm](max_sum_of_subarray.cpp)
