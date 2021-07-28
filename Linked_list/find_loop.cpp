@@ -30,7 +30,6 @@ void loopHere(Node* head, Node* tail, int position)
 class Solution
 {
     public:
-  p.
     bool detectLoop(Node* head)
     {
         struct Node* fast = head;
