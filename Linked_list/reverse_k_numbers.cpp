@@ -1,3 +1,7 @@
+// Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.
+
+// this is not my solution .i got a seg fault if anyone correct my code please text me or rise an issue(check below i commented my code).
+
 #include<bits/stdc++.h>
 using namespace std;
 
