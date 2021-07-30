@@ -1,3 +1,8 @@
+// Given a linked list of N nodes such that it may contain a loop.A loop here means that the last node of the link list is connected to the node at position X. If the link list does not have any loop, X=0.
+// Remove the loop from the linked list, if it is present.  
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -126,3 +131,7 @@ int main()
     }
 	return 0;
 }
+
+
+// i tried my best to not to make any mistake .....if you find any wrong in my code .....please feel free to text me.
+// if you got any code which takes less complex than my code please feel free to share with me .....may be it will help someone who in need.
