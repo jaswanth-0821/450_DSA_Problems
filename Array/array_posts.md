@@ -19,3 +19,4 @@
 * finding duplicates in array
 * merge two array without extraspace
 * [Kadane's Algorithm](max_sum_of_subarray.cpp)
+* [merge intervals (no data)]()
