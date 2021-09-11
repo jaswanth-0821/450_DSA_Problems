@@ -11,7 +11,7 @@
 * [Find the maximum and minimum elements in an array](findminmax.cpp)
 * kth smallest number
 * [Sorting of 0,1,2](sort012.cpp)
-* [moving postive and negative numbers](moving_neg_pos_numbers.cpp)
+* [Moving postive and negative numbers](moving_neg_pos_numbers.cpp)
 * [union of two array](union_of_two_array.cpp)
 * [Rotation of array by one](rotation_of_array_one.cpp)
 * [Contiguous sub-array with maximum sum (Kadane's Algorithm)](max_sum_of_subarray.cpp)
@@ -19,6 +19,9 @@
 * finding duplicates in array
 * merge two array without extraspace
 * [Kadane's Algorithm](max_sum_of_subarray.cpp)
-* [merge intervals](merge_intervals.cpp)
+* [Merge intervals](merge_intervals.cpp)
 * Next Permutation
 * [Count Inversion](count_inversion.cpp)
+* [Best time to buy and sell stocks](best_time_to_buyandsell_stocks.cpp)
+* [Count pairs with given sum](count_pairs_with_given_sum.cpp)
+* [Commom elements](commom_elements.cpp)
