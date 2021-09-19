@@ -25,3 +25,6 @@
 * [Best time to buy and sell stocks](best_time_to_buyandsell_stocks.cpp)
 * [Count pairs with given sum](count_pairs_with_given_sum.cpp)
 * [Commom elements](commom_elements.cpp)
+* [Alternate numbers](alternate_numbers.cpp)
+* [Finding subarray sum is 0](subarray_sum_is_0.cpp)
+* [Factorial of large numbers](factorial.cpp)
