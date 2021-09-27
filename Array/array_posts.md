@@ -30,3 +30,6 @@
 * [Factorial of large numbers](factorial.cpp)
 * [Longest consecutive subsequence](longest_subsequence.cpp)
 * [Elements that have frequency > n/k](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
+* Max profit by selling two shares in a day
+* [Array subset of other array](array_subarray.cpp)
+* [Triple sum ](triplet_sum.cpp)
