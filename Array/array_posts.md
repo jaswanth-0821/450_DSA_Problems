@@ -33,3 +33,7 @@
 * Max profit by selling two shares in a day
 * [Array subset of other array](array_subarray.cpp)
 * [Triple sum ](triplet_sum.cpp)
+* water filling
+* [Chocolate Distribution Problem](chocolate_distribution.cpp)
+* [Smallest subarray with sum greater than x](Smallest_subarray_with_sum_greater_than_x.pp)
+* []
