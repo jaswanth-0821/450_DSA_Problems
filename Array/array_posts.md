@@ -36,4 +36,14 @@
 * water filling
 * [Chocolate Distribution Problem](chocolate_distribution.cpp)
 * [Smallest subarray with sum greater than x](Smallest_subarray_with_sum_greater_than_x.pp)
-* []
+* Three way partitioning
+* Minimum swaps and K together
+* Palindromic Array
+* Find the median
+* Median of two sorted arrays of different sizes
+
+
+
+
+
+
