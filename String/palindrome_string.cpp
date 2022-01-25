@@ -1,11 +1,10 @@
-
+//Given a string S, check if it is palindrome or no
  
 #include <bits/stdc++.h>
 using namespace std;
 
 
- // } Driver Code Ends
-//User function template for C++
+
 class Solution{
 public:	
 	
@@ -24,12 +23,10 @@ public:
 	        i++;
 	    }
 	    return 1;
-	    // Your code goes here
+	  
 	}
 
 };
-
-// { Driver Code Starts.
 
 int main() 
 {
