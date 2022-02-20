@@ -5,10 +5,14 @@
 
 <br>
 
+## Problems
+
+
 - [Parenthesis Checker](parenthesis_checker.cpp)
 - [Reverse a string using Stack](reverse_stack_str.cpp)
 - [Special stack](special_stack.cpp)
 - [Next Greater Element](next_great_num.cpp)
 - [The Celebrity Problem](celebrity_problem.cpp) 
+- [Arithmetic Expression Evaluation](maths_operation.cpp)
+- [Evaluation of Postfix Expression](postfix_operation.cpp)
 
-## Problems
