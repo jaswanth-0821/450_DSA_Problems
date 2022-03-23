@@ -23,5 +23,8 @@
 - Maximum area in histgram
 - [Valid Substring](valid_substring.cpp)
 - [Redundant bracket or not](redundant_expression.cpp)
+- [Circular tour](circular_tour.cpp)
+- [Rotten Oranges](rotten_oranges.cpp)
+- 
 
 
