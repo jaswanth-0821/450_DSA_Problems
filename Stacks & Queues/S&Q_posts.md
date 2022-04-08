@@ -25,6 +25,6 @@
 - [Redundant bracket or not](redundant_expression.cpp)
 - [Circular tour](circular_tour.cpp)
 - [Rotten Oranges](rotten_oranges.cpp)
-- 
+- [Distance of nearest cell having 1](min_1_distance.cpp)
 
 
