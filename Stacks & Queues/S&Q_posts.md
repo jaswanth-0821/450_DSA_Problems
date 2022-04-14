@@ -27,5 +27,10 @@
 - [Rotten Oranges](rotten_oranges.cpp)
 - [Distance of nearest cell having 1](min_1_distance.cpp)
 - [First negative integer in every window of size k](first_neg.cpp)
+- [Anagram Trees](https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/)
+- [Min and Max sum subarray](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)
+- [Game with string](game_with_str.cpp)
+- [First non-repeating character in a stream](Create first_non_repeat_str.cpp)
+- [Next smaller element](next_smaller_num.cpp)
 
 
