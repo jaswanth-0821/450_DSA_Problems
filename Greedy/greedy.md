@@ -12,7 +12,9 @@
 * Huffman Encoding
 * Water connection problem
 * Fractional Knapsnap Problem
-* [Minimum no of coins]()
+* [Choose and swap](choose_and_swap.cpp)
+* [Max number of train](https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/)
+* [Minimum Faltforms](minimum_platforms.cpp)
 
 
 
