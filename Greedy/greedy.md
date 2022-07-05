@@ -28,12 +28,12 @@
 * [Swap and maximize the difference](swap_and_maxi.cpp)
 * [Minimum sum of abs difference of 2 arrays](https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/#:~:text=It%20consists%20of%20two%20steps,result%20to%20the%20sum%20S.)
 * [Program for shortest Job first](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)
-* [Problem for LRU]
+* Problem for LRU
 * [Smallest subset  sum greater than other elements](https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/)
 * [Chocolate Distribution Problem](chocolate_distribution_problem.cpp)
-* [Defence of king]
-* [Die hard]
-* [ ]
+* Defence of king
+* Die hard
+* 
 
 
 
