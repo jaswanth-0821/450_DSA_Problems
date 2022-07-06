@@ -33,7 +33,16 @@
 * [Chocolate Distribution Problem](chocolate_distribution_problem.cpp)
 * Defence of king
 * Die hard
-* 
+* GERGOVIA -Wine trading in Gergovia
+* Picking Up Chicks
+* CHOCOLA –Chocolate
+* ARRANGE -Arranging Amplifiers
+* [K center problem](https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/)
+* [Minimum costs for ropes](min_cost_ropes.cpp)
+* [Smallest number with given digits](small_number.cpp)
+* Coding round amazon
+* [Maximum sum of three stacks](https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/)
+
 
 
 
